@@ -1,0 +1,62 @@
+PODS:
+  - DeviceKit (4.5.2)
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - ReactorKit (3.1.0):
+    - RxSwift (~> 6.0)
+    - WeakMapTable (~> 1.1)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - RxSwiftExt (6.0.1):
+    - RxSwiftExt/Core (= 6.0.1)
+    - RxSwiftExt/RxCocoa (= 6.0.1)
+  - RxSwiftExt/Core (6.0.1):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.0.1):
+    - RxCocoa (~> 6.0)
+    - RxSwiftExt/Core
+  - RxTheme (6.0.0):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - WeakMapTable (1.2.0)
+
+DEPENDENCIES:
+  - DeviceKit
+  - R.swift
+  - ReactorKit
+  - RxSwiftExt
+  - RxTheme
+
+SPEC REPOS:
+  trunk:
+    - DeviceKit
+    - R.swift
+    - R.swift.Library
+    - ReactorKit
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - RxTheme
+    - WeakMapTable
+
+SPEC CHECKSUMS:
+  DeviceKit: c622fc19f795f3e0b4d75d6d11b26604338cdab3
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  ReactorKit: a06dd2a5c9339287aedf3dc821cfab6347eca106
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  RxSwiftExt: d61c4b9b06e0a448041b1c659e0f1b5c5a035afc
+  RxTheme: be60cb14e0544b3cbd574cc37fed35ba9d61aa1f
+  WeakMapTable: 05c694ce8439a7a9ebabb56187287a63c57673d6
+
+PODFILE CHECKSUM: 2da0a2765025463b6e7d2a06676297a65ebe7aaa
+
+COCOAPODS: 1.11.2
